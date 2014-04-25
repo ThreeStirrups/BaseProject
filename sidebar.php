@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This is the single file for the Sebo Marketing base theme
+ * This is the sidebar for the three stirrups theme
  */
 
 ?>

@@ -1,7 +1,7 @@
 <?php
 
 /**
- * This is the comments template for the Sebo Base Theme
+ * This is the comments template for the three stirrups theme
  */
 
 ?>

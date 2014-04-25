@@ -1,7 +1,7 @@
 <?php
 
 /*
-* This is the Header file for the Sebo Marketing base theme
+* This is the header file for the three stirrups base theme
 */
 
 ?><!DOCTYPE html>

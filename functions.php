@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Base theme for all Sebo Wordpress projects
+ * Theme for all Three Stirrups projects
  */
 
 /**

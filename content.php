@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Handles content for Sebo Base Theme
+ * Handles content for three stirrups theme
  */
 
 ?>

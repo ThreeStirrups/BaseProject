@@ -1,7 +1,7 @@
 <?php
 
 /*
-* This is the Archive file for the Sebo Marketing base theme
+* This is the archive file for the three stirrups
 */
 get_header(); ?>
 

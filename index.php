@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This is the Index file for the Sebo Marketing base theme
+ * This is the index file for the three stirrups theme
  */
 
 get_header(); ?>

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This is the 404 file for the Sebo Marketing base theme
+ * This is the 404 file for the three stirrups
  */
 
 get_header(); ?>

@@ -2,7 +2,7 @@
 
 /*
  * Template Name: Home Page
- * This is the front page file for the Sebo Marketing base theme
+ * This is the home page file for the three stirrups theme
  */
 
 get_header(); ?>
