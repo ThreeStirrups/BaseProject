@@ -1,0 +1,14 @@
+
+/**
+ * Site Header Styles
+ */
+#site-header {
+    background-color: $gray-lighter;
+    #site-title {
+        font-size: 36px;
+    }
+    #site-description {
+        font-size: 18px;
+        font-weight: normal;
+    }
+}
