@@ -32,6 +32,9 @@ add_action('after_setup_theme', 'theme_setup');
 function theme_styles_scripts()
 {
 
+    // load bootstrap script
+    wp_enqueue_script('baseThemeBootstrap', get_template_directory_uri() . '/vendors/js/bootstrap.min.js', array(), '3.1.1', true);
+
     // load main stylesheet
     wp_enqueue_style('theme-style', get_stylesheet_uri());
 
