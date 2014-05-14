@@ -2,7 +2,7 @@ Three Stirrups Theme
 ========
 
 ##TODO
-- Add default styling
+- Add base theme styling
 - add includes folder w/ shortcodes etc.
 - comments
 - post meta
