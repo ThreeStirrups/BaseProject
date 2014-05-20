@@ -1,8 +1,5 @@
 <?php
 
-include get_template_directory() . "/vendor/php/tinymce-tables/mce_table_buttons.php";
-include get_template_directory() . "/vendor/php/formidable-bootstrap/formidable-bootstrap.php";
-
 /**
  * Include the TGM_Plugin_Activation class.
  */
