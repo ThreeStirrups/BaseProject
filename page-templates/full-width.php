@@ -2,7 +2,7 @@
 
 /*
  * Template Name: Full Width
- * This is the full width template for the three stirrups theme
+ * This is the Index file for the Sebo Marketing base theme
  */
 
 get_header(); ?>

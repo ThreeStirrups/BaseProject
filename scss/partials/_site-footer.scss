@@ -1,6 +1,8 @@
 #site-footer {
-    background-color: $gray-lighter;
-    padding: 20px 0;
+  background-color: transparent;
+  padding: 20px 0;
+  border-top: 1px solid $white;
+  box-shadow: 0px 0px 3px 0px $gray-lighter;
 }
 .footer-menu {
     padding: 0;

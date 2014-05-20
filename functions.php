@@ -4,6 +4,11 @@
  * Theme for all Three Stirrups projects
  */
 
+
+include 'inc/theme-plugins.php';
+include 'inc/theme-options.php';
+include 'inc/theme-shortcodes.php';
+
 /**
  * Adds theme support for basic elements
  * - register navigation
@@ -24,6 +29,7 @@ add_action('after_setup_theme', 'theme_setup');
 /**
  * Adds Styles and Scripts
  * - Scripts
+ * + bootstrap.min.js
  * + custom.js
  * - Styles
  * + style.scss
@@ -33,7 +39,7 @@ function theme_styles_scripts()
 {
 
     // load bootstrap script
-    wp_enqueue_script('baseThemeBootstrap', get_template_directory_uri() . '/vendors/js/bootstrap.min.js', array(), '3.1.1', true);
+    wp_enqueue_script('baseThemeBootstrap', get_template_directory_uri() . '/vendor/js/bootstrap.min.js', array(), '3.1.1', true);
 
     // load main stylesheet
     wp_enqueue_style('theme-style', get_stylesheet_uri());

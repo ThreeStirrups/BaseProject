@@ -1,9 +1,12 @@
 
 // Import variables
-@import "partials/variables";
+@import "variables";
 
 // Import bootstrap styles
 @import "bootstrap.scss";
+
+// Import global styles
+@import "global/globals";
 
 // Import defaults
 @import "partials/defaults";
@@ -27,4 +30,4 @@
 @import "partials/site-footer";
 
 // Import templates
-@import "partials/template-front-page";
+@import "partials/template-home-page";

@@ -10,7 +10,7 @@
 <head>
 <meta charset="<?php bloginfo('charset'); ?>" />
 <meta name="viewport" content="width=device-width" />
-<title><?php // Insert Title ?></title>
+<title><?php wp_title('') ?></title>
 <?php wp_head(); ?>
 </head>
 
@@ -36,4 +36,6 @@
     </header><!-- end #site-header -->
 
     <main id="site-main" class="">
-        <div class="container clearfix">
+        <?php if(!is_front_page()) : ?>
+        <div class="container">
+            <?php endif; ?>

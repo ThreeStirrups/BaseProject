@@ -5,7 +5,9 @@
 */
 
 ?>
-        </div><!-- end #main.container -->
+    <?php if(!is_front_page()) : ?>
+        </div><!-- end #site-main .container -->
+    <?php endif; ?>
     </main><!-- end #site-main -->
 
     <footer id="site-footer">
